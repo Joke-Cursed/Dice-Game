@@ -1,2 +1,2 @@
 # Dice-Game
-<b>Netlify Link: </b>
+<b>Netlify Link: </b>https://two-dices.netlify.app/
